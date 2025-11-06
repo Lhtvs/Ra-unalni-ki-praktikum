@@ -3,3 +3,4 @@
 # Alt + Tab = Menjava
 # Alt + F4 = Zapri vse
 # Ctrl + S = Shrani
+# Alt + Ins = Prilepi

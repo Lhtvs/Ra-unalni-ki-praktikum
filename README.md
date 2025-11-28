@@ -4,3 +4,4 @@
 # Alt + F4 = Zapri vse
 # Ctrl + S = Shrani
 # Alt + Ins = Prilepi
+Povezava do spletne strani: https://lhtvs.github.io/

@@ -5,3 +5,4 @@
 # Ctrl + S = Shrani
 # Alt + Ins = Prilepi
 Povezava do spletne strani: https://lhtvs.github.io/
+tutorialspoint.com

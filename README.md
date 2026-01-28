@@ -6,3 +6,4 @@
 # Alt + Ins = Prilepi
 Povezava do spletne strani: https://lhtvs.github.io/
 tutorialspoint.com
+iruspro/rp
